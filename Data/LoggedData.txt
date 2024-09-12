@@ -1,0 +1,134 @@
+﻿Login Success,9/9/2024 2:37:10 PM,Test Logged In Successfully
+Login Success,9/9/2024 2:38:26 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TS0WYXJ
+Login Success,9/9/2024 2:42:18 PM,Test Logged In Successfully
+Login Success,9/9/2024 2:43:22 PM,Tushar Logged In Successfully
+A new Train,12992, : ,Vande Bharat,added
+Login Success,9/9/2024 2:45:06 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 2:48:21 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSSKUIX
+Login Success,9/9/2024 2:52:39 PM,Test Logged In Successfully
+Login Success,9/9/2024 2:54:43 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,2,Seats in Train Name:,Vande Bharat,with Ticket Id,TVU274B
+Login Success,9/9/2024 3:15:30 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 3:16:48 PM,Test Logged In Successfully
+Login Success,9/9/2024 3:17:08 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 3:22:38 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSL3GTZ
+Login Success,9/9/2024 3:23:42 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSPCD7P
+Login Success,9/9/2024 3:25:40 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TS9H1A5
+Login Success,9/9/2024 3:27:55 PM,Test Logged In Successfully
+Login Success,9/9/2024 3:29:17 PM,Test Logged In Successfully
+Login Success,9/9/2024 3:32:58 PM,Test Logged In Successfully
+Login Success,9/9/2024 3:46:45 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Vande Bharat,with Ticket Id,TVEY4CG
+Login Success,9/9/2024 4:20:37 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:21:42 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:23:29 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:23:53 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:24:37 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:25:41 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:26:22 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:26:40 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:28:44 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSKET0W
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSR8107
+Login Success,9/9/2024 4:33:23 PM,Test Logged In Successfully
+Ticket Cancelled :,Test,Deleted Ticket with TicketId :,TSKET0W,In Train Name :,Shatabadi express
+Credentials exception,9/9/2024 4:46:15 PM,Username and Password doesn't match for Test
+Login Failure,9/9/2024 4:46:17 PM,Test Login Unsuccessful
+Login Success,9/9/2024 4:46:25 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:53:07 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:53:46 PM,Test Logged In Successfully
+Login Success,9/9/2024 4:54:33 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,3,Seats in Train Name:,Shatabadi express,with Ticket Id,TS546T5
+Login Success,9/9/2024 4:56:04 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,2,Seats in Train Name:,Shatabadi express,with Ticket Id,TSSF3FM
+Login Success,9/9/2024 4:58:36 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:00:21 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:01:28 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:02:45 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:03:57 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,31,Seats in Train Name:,Vande Bharat,with Ticket Id,TVYTW0F
+Login Success,9/9/2024 5:09:01 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,1,Seats in Train Name:,Shatabadi express,with Ticket Id,TSYAVJY
+Ticket Booked :,Test,Booked ,60,Seats in Train Name:,Shatabadi express,with Ticket Id,TSGVHVE
+Ticket Cancelled :,Test,Deleted Ticket with TicketId :,TSGVHVE,In Train Name :,Shatabadi express
+Ticket Cancelled :,Test,Deleted Ticket with TicketId :,TSYAVJY,In Train Name :,Shatabadi express
+Login Success,9/9/2024 5:11:46 PM,Test Logged In Successfully
+Ticket Booked :,Test,Booked ,131,Seats in Train Name:,Shatabadi express,with Ticket Id,TSMCJK1
+Login Success,9/9/2024 5:13:59 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:17:40 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:19:28 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:20:21 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:43:49 PM,Test Logged In Successfully
+Login Success,9/9/2024 5:44:27 PM,Tushar Logged In Successfully
+Credentials exception,9/9/2024 8:44:30 PM,Username and Password doesn't match for Tushar
+Login Failure,9/9/2024 8:44:30 PM,Tushar Login Unsuccessful
+Credentials exception,9/9/2024 8:44:35 PM,Username and Password doesn't match for Tushar
+Login Failure,9/9/2024 8:44:36 PM,Tushar Login Unsuccessful
+Credentials exception,9/9/2024 8:44:44 PM,Username and Password doesn't match for rfsegtr
+Login Failure,9/9/2024 8:44:45 PM,rfsegtr Login Unsuccessful
+Credentials Mismatch,9/9/2024 8:45:11 PM,Null or Empty Inputs by user
+Login Success,9/9/2024 8:45:57 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 8:47:36 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 8:49:42 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 8:57:26 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 8:58:49 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 8:59:31 PM,Tushar Logged In Successfully
+Login Success,9/9/2024 9:01:45 PM,Tushar Logged In Successfully
+Account,Tushar, has been deleted 
+Login Success,9/9/2024 9:05:21 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:10:46 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:11:44 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:12:54 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:13:48 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:18:33 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:19:28 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:21:40 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:22:30 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:28:12 PM,Test Logged In Successfully
+Credentials exception,9/9/2024 9:30:21 PM,Username and Password doesn't match for Tushar
+Login Failure,9/9/2024 9:30:21 PM,Tushar Login Unsuccessful
+Login Success,9/9/2024 9:30:25 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:33:33 PM,Test Logged In Successfully
+Login Success,9/9/2024 9:38:03 PM,Test Logged In Successfully
+File Exception,9/9/2024 10:15:27 PM,Unable To Fetch required Data From FileC:\Users\tkumawat\source\repos\TrainBookingSystem\Data\Users.csv
+Login Success,9/9/2024 10:29:34 PM,Test Logged In Successfully
+Login Success,9/9/2024 10:55:15 PM,Test Logged In Successfully
+Login Success,9/9/2024 10:58:04 PM,Test Logged In Successfully
+Login Success,9/9/2024 10:58:47 PM,Test Logged In Successfully
+Login Success,9/9/2024 11:03:44 PM,Test Logged In Successfully
+Login Success,9/9/2024 11:09:48 PM,Test Logged In Successfully
+Login Success,9/10/2024 9:13:21 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:15:48 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:16:08 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:19:22 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:20:02 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:20:37 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:21:02 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:22:08 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:23:20 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:24:03 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:25:52 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:50:03 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:51:19 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:51:39 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:52:15 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:53:33 AM,Test Logged In Successfully
+Login Success,9/10/2024 9:55:33 AM,Test Logged In Successfully
+Login Success,9/10/2024 10:18:05 AM,Test Logged In Successfully
+Credentials Mismatch,9/10/2024 11:41:45 AM,Inputted Credentials are not of minimum 4 chracters
+Credentials Mismatch,9/10/2024 11:42:09 AM,Null or Empty Inputs by user
+Credentials Mismatch,9/10/2024 11:42:27 AM,Inputted Credentials are not of minimum 4 chracters
+Credentials Mismatch,9/10/2024 11:42:36 AM,Inputted Credentials are not of minimum 4 chracters
+SignUp Success,9/10/2024 11:43:19 AM,Watchguard Created Account Successfullt
+Credentials exception,9/10/2024 11:43:45 AM,Username and Password doesn't match for watchguard
+Login Failure,9/10/2024 11:43:55 AM,watchguard Login Unsuccessful
+Login Success,9/10/2024 11:44:14 AM,Watchguard Logged In Successfully
+File Exception,9/10/2024 11:49:36 AM,Unable To Fetch required Data From FileC:\Users\tkumawat\source\repos\TrainBookingSystem\Data\Bookeduser.csv
+Login Success,9/10/2024 12:00:47 PM,Watchguard Logged In Successfully
+Ticket Booked :,Watchguard,Booked ,1,Seats in Train Name:,Amritsar Shatabadi express,with Ticket Id,WAYBJAF
+Login Success,9/10/2024 3:55:16 PM,Test Logged In Successfully

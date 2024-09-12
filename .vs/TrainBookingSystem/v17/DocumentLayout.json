@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\repos\\TrainBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|h:\\repos\\trainbookingsystem\\tickets\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:tickets\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\users\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:users\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\tickets\\firstclassticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:tickets\\firstclassticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\tickets\\generalticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:tickets\\generalticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\trains\\trainmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:trains\\trainmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\utility\\printutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:utility\\printutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\trains\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:trains\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\users\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:users\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\auth\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:auth\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\datalog\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:datalog\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\datautility\\writedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:datautility\\writedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\datautility\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:datautility\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\datautility\\searchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:datautility\\searchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\datautility\\deletedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:datautility\\deletedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\constants\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:constants\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\validation\\authvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:validation\\authvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\data\\loggeddata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:data\\loggeddata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\data\\ticket.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:data\\ticket.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\data\\train.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:data\\train.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|H:\\repos\\TrainBookingSystem\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73368F8C-E01A-4F6B-AD45-74EC1FF59A5C}|TrainBookingSystem.csproj|solutionrelative:data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintUtils.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Utility\\PrintUtils.cs",
+              "RelativeDocumentMoniker": "Utility\\PrintUtils.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Utility\\PrintUtils.cs",
+              "RelativeToolTip": "Utility\\PrintUtils.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAIwMIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:40:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateData.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\DataUtility\\UpdateData.cs",
+              "RelativeDocumentMoniker": "DataUtility\\UpdateData.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\DataUtility\\UpdateData.cs",
+              "RelativeToolTip": "DataUtility\\UpdateData.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:36:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainManagementSystem.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Trains\\TrainManagementSystem.cs",
+              "RelativeDocumentMoniker": "Trains\\TrainManagementSystem.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Trains\\TrainManagementSystem.cs",
+              "RelativeToolTip": "Trains\\TrainManagementSystem.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:18:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteData.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\DataUtility\\WriteData.cs",
+              "RelativeDocumentMoniker": "DataUtility\\WriteData.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\DataUtility\\WriteData.cs",
+              "RelativeToolTip": "DataUtility\\WriteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:52:34.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Users\\Account.cs",
+              "RelativeDocumentMoniker": "Users\\Account.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Users\\Account.cs",
+              "RelativeToolTip": "Users\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:42:27.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthValidatior.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Validation\\AuthValidatior.cs",
+              "RelativeDocumentMoniker": "Validation\\AuthValidatior.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Validation\\AuthValidatior.cs",
+              "RelativeToolTip": "Validation\\AuthValidatior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:20:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchData.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\DataUtility\\SearchData.cs",
+              "RelativeDocumentMoniker": "DataUtility\\SearchData.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\DataUtility\\SearchData.cs",
+              "RelativeToolTip": "DataUtility\\SearchData.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAqwDMBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:12:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteData.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\DataUtility\\DeleteData.cs",
+              "RelativeDocumentMoniker": "DataUtility\\DeleteData.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\DataUtility\\DeleteData.cs",
+              "RelativeToolTip": "DataUtility\\DeleteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:12:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Train.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Trains\\Train.cs",
+              "RelativeDocumentMoniker": "Trains\\Train.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Trains\\Train.cs",
+              "RelativeToolTip": "Trains\\Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:03:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Users\\Passenger.cs",
+              "RelativeDocumentMoniker": "Users\\Passenger.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Users\\Passenger.cs",
+              "RelativeToolTip": "Users\\Passenger.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAMwE4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:44:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Users\\Admin.cs",
+              "RelativeDocumentMoniker": "Users\\Admin.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Users\\Admin.cs",
+              "RelativeToolTip": "Users\\Admin.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:53:26.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralTicket.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Tickets\\GeneralTicket.cs",
+              "RelativeDocumentMoniker": "Tickets\\GeneralTicket.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Tickets\\GeneralTicket.cs",
+              "RelativeToolTip": "Tickets\\GeneralTicket.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAYwE0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:51:41.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Tickets\\Ticket.cs",
+              "RelativeDocumentMoniker": "Tickets\\Ticket.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Tickets\\Ticket.cs",
+              "RelativeToolTip": "Tickets\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwIkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:48:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstClassTicket.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Tickets\\FirstClassTicket.cs",
+              "RelativeDocumentMoniker": "Tickets\\FirstClassTicket.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Tickets\\FirstClassTicket.cs",
+              "RelativeToolTip": "Tickets\\FirstClassTicket.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAYwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:48:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Users\\User.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Users\\User.cs",
+              "RelativeToolTip": "Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:46:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Auth\\Authentication.cs",
+              "RelativeDocumentMoniker": "Auth\\Authentication.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Auth\\Authentication.cs",
+              "RelativeToolTip": "Auth\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:35:03.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoggedData.txt",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Data\\LoggedData.txt",
+              "RelativeDocumentMoniker": "Data\\LoggedData.txt",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Data\\LoggedData.txt",
+              "RelativeToolTip": "Data\\LoggedData.txt",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-10T06:34:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Paths.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Constants\\Paths.cs",
+              "RelativeDocumentMoniker": "Constants\\Paths.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Constants\\Paths.cs",
+              "RelativeToolTip": "Constants\\Paths.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:11:11.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\DataLog\\Logger.cs",
+              "RelativeDocumentMoniker": "DataLog\\Logger.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\DataLog\\Logger.cs",
+              "RelativeToolTip": "DataLog\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:10:59.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:10:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ticket.csv",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Data\\Ticket.csv",
+              "RelativeDocumentMoniker": "Data\\Ticket.csv",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Data\\Ticket.csv",
+              "RelativeToolTip": "Data\\Ticket.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-09T06:56:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Users.csv",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Data\\Users.csv",
+              "RelativeDocumentMoniker": "Data\\Users.csv",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Data\\Users.csv",
+              "RelativeToolTip": "Data\\Users.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-09T06:56:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Train.csv",
+              "DocumentMoniker": "H:\\repos\\TrainBookingSystem\\Data\\Train.csv",
+              "RelativeDocumentMoniker": "Data\\Train.csv",
+              "ToolTip": "H:\\repos\\TrainBookingSystem\\Data\\Train.csv",
+              "RelativeToolTip": "Data\\Train.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-09T06:56:21.932Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14104601:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3549497:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
